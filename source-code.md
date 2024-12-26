@@ -1,6 +1,7 @@
-// 2311102182 MUTIA RANI ZAHRA MEILANI 
-// 2311102279 NATASYA INTAN SUKMA JIWANTI
+2311102182 MUTIA RANI ZAHRA MEILANI 
+2311102279 NATASYA INTAN SUKMA JIWANTI
 
+```go
 package main
 
 import (
@@ -177,3 +178,4 @@ func main() {
 	fmt.Printf("%-15s %-15.6f %-15d %-15d\n", "Iteratif", durationIterative, attemptsIterative, len(guesses))
 	fmt.Printf("%-15s %-15.6f %-15d %-15d\n", "Rekursif", durationRecursive, attemptsRecursive, len(guesses))
 }
+```
